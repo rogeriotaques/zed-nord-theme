@@ -335,7 +335,7 @@
         "surface.background": "#f6f8fa",
         "background": "#eceff4",
 
-        "element.background": "#159739",
+        "element.background": "#e5e9f0",
         "element.hover": "#ebf0f4",
         "element.active": "#ebf0f4",
         "element.selected": "#e2e5e9",
