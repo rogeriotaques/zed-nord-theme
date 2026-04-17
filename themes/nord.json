@@ -335,7 +335,7 @@
         "surface.background": "#f6f8fa",
         "background": "#eceff4",
 
-        "element.background": "#159739",
+        "element.background": "#e5e9f0",
         "element.hover": "#ebf0f4",
         "element.active": "#ebf0f4",
         "element.selected": "#e2e5e9",
@@ -403,8 +403,8 @@
         "terminal.ansi.green": null,
         "terminal.ansi.bright_green": null,
         "terminal.ansi.dim_green": null,
-        "terminal.ansi.yellow": null,
-        "terminal.ansi.bright_yellow": null,
+        "terminal.ansi.yellow": "#bfa76b",
+        "terminal.ansi.bright_yellow": "#bfa76b",
         "terminal.ansi.dim_yellow": null,
         "terminal.ansi.blue": null,
         "terminal.ansi.bright_blue": null,
@@ -459,13 +459,13 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
-        "warning": null,
+        "warning": "#bfa76b",
         "warning.background": null,
-        "warning.border": null,
+        "warning.border": "#bfa76b",
         "players": [],
         "syntax": {
           "attribute": {
-            "color": "#D8DEE9",
+            "color": "#24292e",
             "font_style": null,
             "font_weight": null
           },
