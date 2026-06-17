@@ -15,4 +15,7 @@ Place `nord.json` in `~/.config/zed/themes`, restart Zed and select it from the 
 Also this theme was added to [Zed extensions](https://github.com/zed-industries/extensions)
 
 ![image](screenshots/nord-dark.png)
+
+![image](screenshots/nord-darker.png)
+
 ![image](screenshots/nord-light.png)
