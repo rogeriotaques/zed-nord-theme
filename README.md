@@ -28,5 +28,3 @@ Also this theme was added to [Zed extensions](https://github.com/zed-industries/
 ![Nord Light — light variant of the Nord theme](screenshots/nord-light.png "Nord Light — light variant of the Nord theme")
 
 *Nord Light*
-
-Notes: full-resolution originals and other intermediate files are archived in screenshots/archive. Images in /screenshots are trimmed and optimized for direct display in README. For smaller repo size consider using WebP in releases or Git LFS for very large sources.
